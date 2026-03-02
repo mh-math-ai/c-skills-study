@@ -6,4 +6,4 @@ Learning repository focused on C skills to cover the intersection of Advanced Ma
 
 2026-02-21: Installed C/C++ plugins and finished settings in VSCodium 
 
-
+2026-03-02: Studied structure of hardware, booting process, and what operating systems do
