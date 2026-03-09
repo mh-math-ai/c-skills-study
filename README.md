@@ -11,3 +11,5 @@ Learning repository focused on C skills to cover the intersection of Advanced Ma
 2026-03-03: Studied on why computers use binary digits, and the basic structure of modern computer
 
 2026-03-05: Studied the structure of CPU
+
+2026-03-09: Studied how CPU works
